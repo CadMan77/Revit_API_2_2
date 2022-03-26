@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\ProgramData\RevitAPITraining\Revit_API_2_2.dll"</Assembly>
+		<AddInId>9F2E2375-D454-4978-902C-4382BCCBE57F</AddInId>
+		<FullClassName>Revit_API_2_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPI 2-2 Вывод числа эл-тов на акт.виде (трубы)</Text>
+	</AddIn>
+</RevitAddIns>
